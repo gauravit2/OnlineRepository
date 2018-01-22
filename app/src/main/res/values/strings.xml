@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnlineAssignment</string>
+    <string name="lbl_randomJoke">Random Jokes</string>
+    <string name="lbl_neverEndingList">Never Ending List</string>
+    <string name="lbl_changeTheName">Change the name</string>
+    <string name="prompt_fullname">Enter Name</string>
+    <string name="error_empty_name">Name should not be empty</string>
+    <string name="error_invalid_name">Invalid format of name</string>
+    <string name="lbl_detail">Detail</string>
+</resources>
